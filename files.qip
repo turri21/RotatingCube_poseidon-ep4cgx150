@@ -1,0 +1,16 @@
+set_global_assignment -name HEX_FILE ../song.hex
+set_global_assignment -name MIF_FILE ../sinlut.hex
+set_global_assignment -name MIF_FILE ../reclut.hex
+set_global_assignment -name CDF_FILE jtag.cdf
+
+set_global_assignment -name SYSTEMVERILOG_FILE ../RotatingCube.sv
+set_global_assignment -name SYSTEMVERILOG_FILE ../rtl/cube3d.sv
+set_global_assignment -name SYSTEMVERILOG_FILE ../rtl/line_draw.sv
+set_global_assignment -name SYSTEMVERILOG_FILE ../rtl/framebuffer.sv
+set_global_assignment -name SYSTEMVERILOG_FILE ../rtl/vga_timing.sv
+set_global_assignment -name SYSTEMVERILOG_FILE ../rtl/cube_edges.sv
+set_global_assignment -name SYSTEMVERILOG_FILE ../rtl/starfield.sv
+set_global_assignment -name SYSTEMVERILOG_FILE ../rtl/audio_synth.sv
+set_global_assignment -name SYSTEMVERILOG_FILE ../rtl/i2s_tx.sv
+set_global_assignment -name SYSTEMVERILOG_FILE ../rtl/text_scroller.sv
+
