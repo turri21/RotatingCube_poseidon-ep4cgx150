@@ -4,7 +4,7 @@ This is a demonstration of a 16-Voice Polyphonic MIDI Synthesizer along with a m
 
 It comes along with a dedicated framebuffer, an I2S module, a Bresenham line-draw engine as well as the required VGA timing logic.
 
-Synthesized in Quartus v17.0.2
+Ported from Senhor FPGA and synthesized in Quartus v17.0.2
 
 ------------------------------
 
