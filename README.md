@@ -12,6 +12,6 @@ Instructions for developers.
 
 In the first line of text.py you may enter your own message inside the quotes:
 
-msg = "Hello World!"
+msg = " Hello World! "
 
 After you save it and run it, the output will be 3 localparam lines that should replace the respective ones in text_scroller.sv 
