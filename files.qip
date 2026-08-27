@@ -1,6 +1,6 @@
 set_global_assignment -name HEX_FILE ../song.hex
-set_global_assignment -name MIF_FILE ../sinlut.hex
-set_global_assignment -name MIF_FILE ../reclut.hex
+set_global_assignment -name HEX_FILE ../sinlut.hex
+set_global_assignment -name HEX_FILE ../reclut.hex
 set_global_assignment -name CDF_FILE jtag.cdf
 
 set_global_assignment -name SYSTEMVERILOG_FILE ../RotatingCube.sv
